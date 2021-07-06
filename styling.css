@@ -10,17 +10,22 @@ span{
 h1{
     font-size: 50px;
 }
+
+h4{
+    font-weight: 500;
+}
 p{
     text-align: justify;
 }
 
-a{
+.link-button{
     text-decoration: none;
     background-image:linear-gradient(cadetblue, steelblue);
     color: white;
     font-weight: 900px;
     padding: 10px 40px;
     border-radius: 10px;
+    text-transform: uppercase;
 }
 
 .container{
@@ -44,3 +49,31 @@ a{
 .upper-banner{
     background-image: url(images/shapes/top-banner.png);
 }
+
+.centered{
+    text-align: center;
+}
+.recipe{
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+}
+
+.catagories{
+    width: 40%;
+    border-radius: 10px;
+    padding-left: 2%;
+    margin: 20px;
+    box-shadow: 10px 10px 40px grey;
+}
+
+.catagories img{
+    padding-left: 2 0px;
+}
+.cargo{
+    margin-top: 100px;
+    margin-bottom: 200px;
+    width: 50%;
+    background-image: url();
+}
+
