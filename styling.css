@@ -14,8 +14,14 @@ h1{
 h4{
     font-weight: 500;
 }
+
 p{
     text-align: justify;
+}
+
+footer{
+    background-color: rgba(69, 64, 104, 0.89);
+    text-align: center;
 }
 
 .link-button{
@@ -74,6 +80,10 @@ p{
     margin-top: 100px;
     margin-bottom: 200px;
     width: 50%;
-    background-image: url();
+    padding-left: 30px;
+}
+
+.contact-info{
+    color: rgba(128, 128, 128, 0.692);
 }
 
